@@ -17,12 +17,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#setup">Setup</a></li>
   </ol>
 </details>
 
@@ -40,7 +35,7 @@ This is an Anki card script that is meant to allow the user to type in pinyin, a
 
 You will need to have at least Anki 2.1.35 installed in order for everything to run smoothly (This script has not been tested on earlier versions).
 
-### Set-up
+### Setup
 
 1. You will need the following fields in your anki cardtype
  - pinyin
