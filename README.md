@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About 
 
-[![Example][example-screenshot]](https://imgur.com/a/p7BmZwM)
+![alt text](http://url/to/example.gif)
 
 This is an Anki card script that is meant to allow the user to type in pinyin, and get feedback based on the answer of the card. 
 
