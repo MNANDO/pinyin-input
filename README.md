@@ -43,7 +43,7 @@ You will need to have at least Anki 2.1.35 installed in order for everything to 
   ```
     <div id="answer" class="answer">ANSWER GOES HERE</div>
       <div class="container">
-          <div class="output"id="output" tabindex="0">
+          <div class="output"id="output">
               <div class="message" id="message">Click here to start typing...</div>
           </div>
           <button class="submit" id="submit">Check Pinyin</button>
