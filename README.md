@@ -12,14 +12,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About</a>
+      <a href="#about">About</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -35,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About 
 
-![alt text](http://url/to/example.gif)
+![example](./images/example.gif)
 
 This is an Anki card script that is meant to allow the user to type in pinyin, and get feedback based on the answer of the card. 
 
