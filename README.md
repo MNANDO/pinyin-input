@@ -28,7 +28,7 @@
 
 ![example](./images/example.gif)
 
-This is an Anki card script that is meant to allow the user to type in pinyin, and get feedback based on the answer of the card. 
+This is an Anki card script that is meant to allow the user to type in pinyin and get feedback based on the answer of the card. 
 
 <!-- GETTING STARTED -->
 ## Getting Started
